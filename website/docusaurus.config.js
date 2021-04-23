@@ -38,14 +38,14 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-                  'https://github.com/Walkerdine/embedded-interview-handbook/tree/main/website/docs/',
+                  'https://github.com/Walkerdine/embedded-interview-handbook/tree/main/website/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,
           editUrl:
-                'https://github.com/Walkerdine/embedded-interview-handbook/tree/main/website/docs/',
+                'https://github.com/Walkerdine/embedded-interview-handbook/tree/main/website/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
