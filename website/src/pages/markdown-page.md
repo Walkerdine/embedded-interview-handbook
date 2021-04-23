@@ -1,7 +1,7 @@
 ---
-title: Markdown page example
+title: Example Page
 ---
 
-# Markdown page example
+# Embedded Interview HandBook
 
-You don't need React to write simple standalone pages.
+This is an example page.
