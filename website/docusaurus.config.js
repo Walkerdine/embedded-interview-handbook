@@ -14,7 +14,7 @@ module.exports = {
       title: 'Embedded Interview Handbook',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
           { to: 'docs/intro', label: 'Getting Started', position: 'right' },
@@ -28,7 +28,7 @@ module.exports = {
     },
     footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Rob Walkerdine. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Walkerdine. Built with Docusaurus.`,
     },
   },
   presets: [
