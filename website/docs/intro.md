@@ -2,30 +2,22 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+This is the very beginning of the embedded interview handbook.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+This guide format is based off of the [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
+Please feel free to contribute.
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
-
-## Start your site
+## Start the site
 
 Run the development server:
 
 ```shell
-cd my-website
+cd website
 
 npx docusaurus start
 ```
