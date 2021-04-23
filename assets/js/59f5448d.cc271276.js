@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{86:function(e){e.exports=JSON.parse('{"allTagsPath":"/embedded-interview-handbook/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/embedded-interview-handbook/blog/tags/facebook"}')}}]);
