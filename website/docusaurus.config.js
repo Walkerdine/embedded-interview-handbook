@@ -17,7 +17,7 @@ module.exports = {
         src: 'img/logo.png',
       },
       items: [
-          { to: 'docs/intro', label: 'Getting Started', position: 'right' },
+          { to: "docs/intro", label: 'Getting Started', position: 'right' },
           { to: 'blog', label: 'Blog', position: 'right' },
           {
               href: 'https://github.com/Walkerdine/embedded-interview-handbook',
